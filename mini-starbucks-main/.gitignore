@@ -1,0 +1,6 @@
+*.log
+node_modules
+keycloak-containers @ 88b2f48b
+secrets.ts
+.DS_Store
+dist
